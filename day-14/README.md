@@ -1,4 +1,4 @@
-# AWS Continuous Integration DEMO
+# AWS Continuous Integration DEMOo
 
 ## Set Up GitHub Repository
 
